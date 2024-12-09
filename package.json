@@ -2,6 +2,7 @@
   "name": "my-todo",
   "version": "0.1.0",
   "private": true,
+  "main": "src/index.tsx",
   "homepage": "https://a-rodina.github.io",
   "dependencies": {
     "@reduxjs/toolkit": "^2.2.7",
